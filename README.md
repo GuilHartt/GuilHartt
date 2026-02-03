@@ -37,7 +37,7 @@ My main focus is the **Sweet Ecosystem**:
 | Project | Description | Tech |
 | :--- | :--- | :--- |
 | <img width="100%" src="https://img.shields.io/badge/Sweet_Engine-ff69b4?style=for-the-badge"/> | A modern, intuitive 2D game engine designed to make game dev sweeter. *(Private)* | `Odin` `Raylib` |
-| <a href="https://github.com/GuilHartt/muninn"><img width="100%" src="https://img.shields.io/badge/Muninn_ECS-673ab7?style=for-the-badge"/></a> | A high-performance, modular Entity Component System (ECS). | `Odin` |
+| <a href="https://github.com/GuilHartt/muninn"><img width="100%" src="https://img.shields.io/badge/Muninn_ECS-673ab7?style=for-the-badge"/></a> | Fast archetype-based ECS with support for relationships. | `Odin` |
 | <img width="100%" src="https://img.shields.io/badge/Dew_Lang-00bcd4?style=for-the-badge"/> | A lightweight, embeddable scripting language for games. *(Private)* | `Go` `Odin` |
 
 ---
