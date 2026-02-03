@@ -42,15 +42,6 @@ My main focus is the **Sweet Ecosystem**:
 
 ---
 
-## ⚡ Github Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilHartt&show_icons=true&theme=dracula&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilHartt&layout=compact&theme=dracula"/>
-</div>
-
----
-
 <div align="center">
   <sub>"Coffee and Code" — The fuel of my engine.</sub>
 </div>
