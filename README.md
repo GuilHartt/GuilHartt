@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-I'm a developer from **Minas Gerais, Brazil** 🇧🇷.
+I'm a developer from **Brazil** 🇧🇷.
 
 My programming journey began at 12, fueled by curiosity. Today, I dedicate my time to the challenging world of **Game Development** and **Tooling**. I believe in building high-performance, developer-friendly tools to help others bring their ideas to life.
 
