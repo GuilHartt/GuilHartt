@@ -1,12 +1,14 @@
 <div align="center">
 
-# Guilherme
+# Hello 👋
 
-**Game developer & tooling enthusiast.**
+I'm Guilherme, a **game developer & tooling enthusiast**.
 
-Building small, fast and developer-friendly tools for 2D game development.
+Building small, fast and developer-friendly tools for game development.
 
 `Odin` · `Go` · `Lua` · `Raylib` · `Linux`
+
+[LinkedIn](https://www.linkedin.com/in/guilhermeaavelar/)
 
 </div>
 
@@ -20,9 +22,9 @@ A lightweight, archetype-based ECS for Odin, focused on performance and data-ori
 **[dew](https://github.com/GuilHartt/dew-lang)**
 An experimental scripting language and runtime for games.
 
-**Sweet Engine**
-A 2D game engine ecosystem focused on simplicity, performance and good tooling.
+**[Sorting Chaos](https://guilhartt.github.io/sorting-chaos/)**
+A visual and informal introduction to sorting algorithms, Big O and complexity through stories, analogies and illustrations.
 
 ---
 
-<sub>Turning coffee into game development tools.</sub>
+<sub>☕ Turning coffee into code.</sub>
